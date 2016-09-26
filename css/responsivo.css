@@ -1,0 +1,28 @@
+@media (min-width: 535px) and (max-width: 824px){
+	[class*="col-"] {
+		width: 100%;
+	}	
+	.logo{
+		width:40%;
+	}
+	.container{
+		width:100%;
+	}
+	.parrafo{
+		margin-bottom: 5%;
+	}	
+}
+@media (max-width: 535px){
+	[class*="col-"] {
+		width: 100%;
+	}
+	.logo{
+		width:40%;
+	}
+	.container{
+		width: 100%;
+	}
+	.parrafo{
+		margin-bottom: 5%;
+	}
+}

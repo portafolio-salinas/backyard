@@ -1,0 +1,63 @@
+body{
+	font-family: "Open Sans";
+}
+.logo{
+	width: 100%;
+}
+.lista{
+	display: inline-block;
+}
+.naveg{
+	margin-left: 60%;
+}
+.menu{
+	text-decoration: none;
+	color: #656363;
+	font-size: 14px;
+	padding-right: 20%;	
+}
+.fondoDos{
+	background-color: #808080;
+	padding-top: 5%; 
+	padding-bottom: 5%; 
+}
+.titulo{
+	color: white;
+	width: 100%;
+	font-size: 40px;
+	padding-bottom: 5%;
+}
+.parrafo{
+	color: white;
+	width: 100%;	
+}
+legend{
+	font-weight: bold;
+	margin-left: 30%;
+	padding-bottom: 3%;
+}
+form{
+	color: white;
+	background-color: #9A9A9A;
+	width: 90%;
+	margin-left: 5%;
+	padding: 3%;
+	border-radius: 3%;	
+}
+
+input{
+	width: 100%;
+	color: #808080;
+}
+.btn{
+	margin-top:5%; 
+	background-color: #3EB0F8;
+	text-align: center;
+	font-size: 14px;
+	padding: 2%;
+}
+
+footer{
+	font-size: 12px;
+	padding: 1% 0;
+}
